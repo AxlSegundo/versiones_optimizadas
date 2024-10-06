@@ -1,0 +1,49 @@
+A B C D
+A B D
+A B
+B C D
+B C
+C D
+B D
+A B C
+A D
+A C
+A
+B
+C
+D
+A B C D E
+A B D E
+A C E
+B C E
+B E
+C D E
+A B C E
+A B D C
+A D E
+A C D
+B C D E
+B D E
+C D E
+A B C D E F
+A B C F
+A C F
+B C F
+B E F
+C D F
+A B C D F
+A B D F
+A D F
+B C D F
+B D F
+C D F
+A B C D E G
+A B D E G
+A C E G
+B C E G
+B E G
+C D E G
+A B C E G
+A B D C G
+A D E G
+A C D G
